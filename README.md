@@ -1,2 +1,2 @@
 # ABCD
-This is ! a portfolio website of mind. 
+This is ! a portfolio website of mine. 
